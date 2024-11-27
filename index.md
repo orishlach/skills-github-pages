@@ -1,5 +1,5 @@
 ---
-title: Or Ishlach Porfolio
+title: About
 ---
 
 # Or Ishlach
